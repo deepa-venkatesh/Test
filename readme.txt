@@ -1,3 +1,16 @@
+Changed from developer
+
+
+def Method()
+
+    this code is from branch: developer
+    
+    
+    
+
+
+
+
 
 # Sample Commands to Push::
 ---------------------------------------
@@ -16,4 +29,3 @@ git rm -r --cached <directory_name>
 ---------------------------------------
 git checkout <branch_name>
 
-changed from developer
