@@ -15,3 +15,5 @@ git rm -r --cached <directory_name>
 # Switch Branch
 ---------------------------------------
 git checkout <branch_name>
+
+changed from developer
